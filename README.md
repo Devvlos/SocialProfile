@@ -1,18 +1,17 @@
-<h1 align="center">🩹 LinkPlastic</h1>
-<h3 align="center">Simple site to group all my profiles on social networks in one place While Also Saving Tree.</h3>
+<h1 align="center">👦 SocialProfile</h1>
+<h3 align="center">Simple site to group all my profiles on social networks in one place Part2</h3>
 
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
 </p>
 
 ---
 
 <p align="center">
-  <img alt="screenshot" src="Img/demo.png">
+  <img alt="screenshot" src="demo.png">
 </p>
 
 ---
@@ -20,12 +19,12 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://devvlos.github.io/LinkPlastic/)
+- [Demo](https://devvlos.github.io/SocialProfile/)
 
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/Devvlos/LinkPlastic/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Devvlos/SocialProfile/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
 git clone https://github.com/Devvlos/LinkPlastic.git
 ```
@@ -42,4 +41,4 @@ git clone https://github.com/Devvlos/LinkPlastic.git
 Once your pull request has been merged, you can delete your branch.
 
 
-Made By Devlos :wave: [Contact](https://adhishgupta.netlify.app/)
+Made By Devlos :wave: [Contact](http://adhishgupta.rf.gd/)
